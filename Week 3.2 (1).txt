@@ -1,0 +1,7 @@
+n1=int(input())
+n2=int(input())
+half=n1/2
+if(half<=n2):
+    print("IN")
+else:
+    print("OUT")
